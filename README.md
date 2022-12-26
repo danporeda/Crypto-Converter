@@ -15,6 +15,8 @@ US Dollar (USD), Euro (EUR), British Pound Sterling (GBP), Japanese Yen (JPY), C
 
 ## User Experience:
 
+Open file crypto_converter.py to run the main app. 
+
 Through Command Line Interface (CLI), with up/down arrow keys, user selects crypto.
 
 <img width="489" alt="Screen Shot 2022-08-25 at 9 30 56 PM" src="https://user-images.githubusercontent.com/108194033/186996308-a4cd977c-8149-4278-bc70-1add95986377.png">
